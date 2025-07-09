@@ -1,0 +1,24 @@
+Last login: Sun Jul  6 16:07:15 on console
+nakropthongbenchamat@MacBook-Pro-khxng-Nakrop ~ % requirements.txtflask
+line-bot-sdk
+geopy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
